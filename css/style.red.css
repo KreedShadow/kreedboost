@@ -81,7 +81,7 @@ body{overflow-x:hidden;}
 .heading h2 span{color:#E94C6F;}
 .heading h3{color:#fff;margin:0;font-size:25px;opacity:0.9;}
 .heading h3 span{color:#E94C6F;}
-.close-btn{background:url(../images/icon/close.png);z-index:1000;cursor:pointer;width:60px;height:50px;position:fixed;left:65%;top:50px;background-size:cover;}
+.close-btn{background:url(../images/icon/close.png);z-index:1000;cursor:pointer;width:60px;height:50px;position:fixed;right: 0%;top:50px;background-size:cover;}
 .profile-page,
 .resume-page,
 .portfolio-page,
